@@ -1,0 +1,128 @@
+
+<!-- レフトメニュー部分ここまで・バックナンバーは共通ファイルで編集 -->
+
+<!-- コンテンツ部分ここから -->
+
+<div class="contents heightLine" style="height: 1261px;">
+
+<h1>新入社員紹介</h1>
+<h3 id="freshman02">1月入社</h3>
+
+<div class="freshman-area">
+
+  <table cellspacing="0" cellpadding="0" class="profile_table">
+  <col width="72" span="2" />
+  <tr>
+  <th rowspan="6" align="center" valign="top" nowrap="nowrap"><img src="./img/fresh_01.jpg" /></th>
+  <th valign="top" nowrap="nowrap">所属</th>
+  <td>A事業部　a1部　11課</td>
+  </tr>
+  <tr>
+  <th valign="top" nowrap="nowrap">氏名</th>
+  <td>姓　名</td>
+  </tr>
+  <tr>
+  <th valign="top" nowrap="nowrap">ふりがな</th>
+  <td>せい　めい</td>
+  </tr>
+  <tr>
+  <th valign="top" nowrap="nowrap">経歴</th>
+  <td>経歴1</td>
+  </tr>
+  <tr>
+  <th valign="top" nowrap="nowrap">趣味</th>
+  <td>趣味1</td>
+  </tr>
+  <tr>
+  <th valign="top" nowrap="nowrap">自己PR</th>
+  <td>自己PR1</td>
+  </tr>
+  </table>
+
+</div><!--//freshman-area-->
+
+<h3 id="freshman03">2月入社</h3>
+<div class="freshman-area">
+
+<!-------------------------------->
+
+<table cellspacing="0" cellpadding="0" class="profile_table">
+<tr>
+<th rowspan="6" align="center" valign="top" nowrap="nowrap"><img src="./img/fresh_02.jpg" /></th>
+<th>所属</th>
+<td>A2事業本部　12課</td>
+</tr>
+<tr>
+<th>氏名</th>
+<td>姓2　名2</td>
+</tr>
+<tr>
+<th>ふりがな</th>
+<td>せいに　なに</td>
+</tr>
+<tr>
+<th>経歴</th>
+<td>経歴2_1<br />
+経歴2_2</td>
+</tr>
+<tr>
+<th>趣味</th>
+<td>趣味2_1<br />
+趣味2_2</td>
+</tr>
+<tr>
+<th>自己PR</th>
+<td>自己PR2_1<br />
+自己PR2_2</td>
+</tr>
+</table>
+
+<!-------------------------------->
+
+<table cellspacing="0" cellpadding="0" class="profile_table">
+<tr>
+<th rowspan="6" align="center" valign="top" nowrap="nowrap"><img src="./img/fresh_3.jpg" /></th>
+<th>所属</th>
+<td>A3本部&nbsp; a3部　b3部　13課</td>
+</tr>
+<tr>
+<th>氏名</th>
+<td>姓3　名3</td>
+</tr>
+<tr>
+<th>氏名(ふりがな)</th>
+<td>せいさん　めいさん</td>
+</tr>
+<tr>
+<th>経歴</th>
+<td>経歴3_1<br />
+<br />
+経歴3_3(3_2はなし)<br />
+</td>
+</tr>
+<tr>
+<th>趣味</th>
+<td>趣味3_1<br />
+<br />
+趣味3_3(3_2はなし)<br />
+</td>
+</tr>
+<tr>
+<th>自己PR</th>
+<td>自己PR3_1<br />
+<br />
+自己PR3_3(3_2はなし)<br />
+</td>
+</tr>
+</table>
+
+
+</div><!--//freshman-area-->
+
+
+<div class="pageTop"><a href="#">ページトップへ </a></div>
+
+
+</div>
+
+<!-- コンテンツ部分ここまで -->
